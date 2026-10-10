@@ -1,0 +1,18 @@
+{
+  "name": "birdglass-survey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "校园建筑鸟撞 5 分钟快速筛查：逐点位上传玻璃照片、逐项打分、导出 CSV",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.45.4"
+  },
+  "devDependencies": {
+    "vite": "5.4.10"
+  }
+}
